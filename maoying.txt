@@ -938,7 +938,6 @@
     {
       "name": "Json.vipmv",
       "url": "http://jx.vipmv.co/json3/?url="
-      "type": 1
     },
     {
       "name": "Json.jianghu",
