@@ -936,6 +936,26 @@
   ],
   "parses": [
     {
+      "name": "Json.vipmv",
+      "url": "http://jx.vipmv.co/json3/?url="
+      "type": 1
+    },
+    {
+      "name": "Json.jianghu",
+      "url": "http://play.bichangzw.cn/jianghu/json/?url="
+      "type": 1
+    },
+    {
+      "name": "Json.parwox",
+      "url": "https://api.parwix.com:4433/analysis/json/?uid=1735&my=dfghjlsvDGKMPQRSUV&url="
+      "type": 1
+    },
+    {
+      "name": "Json.moliuk",
+      "url": "https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url="
+      "type": 1
+    },
+    {
       "name": "暮光解析",
       "url": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
     },
