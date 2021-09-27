@@ -2,6 +2,12 @@
 2A,http://zy.zcocc.com/api.php/provide/vod/at/xml,解析
 蘑菇,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml,解析
 星光,http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/at/xml,解析
+百度,https://api.bdjx.vip/api.php/provide/vod/at/xml,解析
+百度云,http://api.dbyunzy.com/api.php/provide/vod/at/xml,解析
+饭团,http://fantuan.wkfile.com/api.php/provide/vod/at/xml,解析
+飘花,http://www.zzrhgg.com/api.php/provide/vod/at/xml,不解析
+豆瓣,http://api.dbyunzy.com/api.php/provide/vod/at/xml,不解析
+快播,http://www.kuaibozy.com/api.php/provide/vod/at/xml,不解析
 萌果,http://api.appearoo.top/api.php/provide/vod/at/xml,解析
 奇艺,http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml/,解析
 芒果,http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/at/xml/,解析
@@ -29,6 +35,11 @@ PPTV,http://zy.itono.cn/inc/pptv.php,解析
 json1,http://jx.vipmv.co/json3/?url=
 json2,https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url=
 json3,https://973.cuan.la:5901/973/api/api_best.php?pltfrom=1100&key=973&url=
+json4,http://play.bichangzw.cn/jianghu/json/?url=
+json5,https://api.parwix.com:4433/analysis/json/?uid=1735&my=dfghjlsvDGKMPQRSUV&url=
+json6,https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url=
+json7,https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=
+json8,http://jxgg.work/json.php?url=
 江湖,https://api.jhdyw.vip/?url=
 最强,https://player.maqq.cn/?url=
 秒开,https://jx.ppflv.com/?url=
