@@ -1,6 +1,7 @@
 点播：
 2A,http://zy.zcocc.com/api.php/provide/vod/at/xml,解析
 蘑菇,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml,解析
+星光,http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/at/xml,解析
 萌果,http://api.appearoo.top/api.php/provide/vod/at/xml,解析
 奇艺,http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml/,解析
 芒果,http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/at/xml/,解析
