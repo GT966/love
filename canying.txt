@@ -1,5 +1,6 @@
 点播：
 2A,http://zy.zcocc.com/api.php/provide/vod/at/xml,解析
+七七电影, https://www.77diany.com/api.php/provide/vod/at/xml,解析
 蘑菇,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml,解析
 星光,http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/at/xml,解析
 百度,https://api.bdjx.vip/api.php/provide/vod/at/xml,解析
