@@ -1,5 +1,6 @@
 点播：
-极品, https://www.jpysvip.net/api.php/provide/vod/at/xml,解析
+极品,https://www.jpysvip.net/api.php/provide/vod/at/xml,解析
+七七影视,http://kunyu77.com/api.php/provide/vod/at/xml,解析
 2A,http://zy.zcocc.com/api.php/provide/vod/at/xml,解析
 七七电影,https://www.77diany.com/api.php/provide/vod/at/xml,解析
 蘑菇,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml,解析
