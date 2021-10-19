@@ -1,4 +1,5 @@
 点播：
+剧好看,https://www.juhaokan.cc/api.php/provide/vod/at/xml,解析
 白嫖资源,http://www.baipiaozy.com/api.php/provide/vod/at/xml?ac=list&pg=1,解析
 奇乐资源,https://zy.ujuba.com/api.php/provide/vod/at/xml,解析
 椰子资源,https://zy.gbxy.net.cn/api.php/provide/vod/at/xml,解析
