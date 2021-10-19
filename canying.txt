@@ -1,4 +1,7 @@
 点播：
+白嫖资源,http://www.baipiaozy.com/api.php/provide/vod/at/xml?ac=list&pg=1,解析
+奇乐资源,https://zy.ujuba.com/api.php/provide/vod/at/xml,解析
+椰子资源,https://zy.gbxy.net.cn/api.php/provide/vod/at/xml,解析
 极品,https://www.jpysvip.net/api.php/provide/vod/at/xml,解析
 七七影视,http://kunyu77.com/api.php/provide/vod/at/xml,解析
 2A,http://zy.zcocc.com/api.php/provide/vod/at/xml,解析
@@ -130,6 +133,11 @@ CCTV-15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 CCTV17农业农村高清,http://111.20.105.60:6060/yinhe/2/ch00000090990000001301/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 【央视频道尾】
 【影视轮播头】
+影视,http://121.51.249.99/txdirect.hls.huya.com/src/1524418059-1524418059-6547325708836798464-3048959574-10057-A-0-1.m3u8
+影视,http://121.51.249.99/txdirect.hls.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8
+影视,http://121.51.249.99/txdirect.hls.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.m3u8
+影视,http://121.51.249.99/txdirect.hls.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8
+影视,http://121.51.249.99/txdirect.hls.huya.com/src/59087345-59087345-253778214382469120-2847687592-10057-A-0-1.m3u8
 電影1,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
 電影2,http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
 電影3,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
